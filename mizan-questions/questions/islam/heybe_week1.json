@@ -1,0 +1,180 @@
+{
+  "title": "İslam Bilgi Yarışması - Zor Seviye",
+  "questions": [
+    {
+      "id": "islam_hard_001",
+      "text": "Kur'an-ı Kerim'de kaç sure bulunmaktadır?",
+      "type": "mcq",
+      "options": ["110", "112", "114", "116"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_002",
+      "text": "Hz. Peygamber'in (s.a.v.) annesi kimdir?",
+      "type": "mcq",
+      "options": ["Hz. Hatice", "Hz. Âmine", "Hz. Fâtıma", "Hz. Halîme"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "islam_hard_003",
+      "text": "Kur'an-ı Kerim'in en uzun suresi hangisidir?",
+      "type": "mcq",
+      "options": ["Al-i İmrân", "En-Nisâ", "El-Bakara", "El-Mâide"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_004",
+      "text": "Miraç olayı hangi Hicret öncesi yılda gerçekleşmiştir?",
+      "type": "mcq",
+      "options": ["Hicretten 1 yıl önce", "Hicretten 2 yıl önce", "Hicretten 3 yıl önce", "Hicretten 5 yıl önce"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "islam_hard_005",
+      "text": "Aşağıdakilerden hangisi Hz. Peygamber'in (s.a.v.) katibi değildir?",
+      "type": "mcq",
+      "options": ["Hz. Ali", "Hz. Zeyd b. Sâbit", "Hz. Übey b. Kâ'b", "Hz. Ebû Zerr"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "islam_hard_006",
+      "text": "Farz namazlarda kıraat (Kur'an okuma) kaç rek'atte farzdır?",
+      "type": "mcq",
+      "options": ["Sadece ilk rek'atte", "İlk iki rek'atte", "Tüm rek'atlerde", "Son iki rek'atte"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "islam_hard_007",
+      "text": "Kur'an'da adı geçen tek kadın sahabi kimdir?",
+      "type": "mcq",
+      "options": ["Hz. Hatice", "Hz. Âişe", "Hz. Meryem", "Hz. Fâtıma"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_008",
+      "text": "İslam'da zekâtın farz olması için gerekli nisap miktarı (altın cinsinden) kaç gramdır?",
+      "type": "mcq",
+      "options": ["40 gram", "80,18 gram", "96 gram", "120 gram"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "islam_hard_009",
+      "text": "Hz. Peygamber (s.a.v.) kaç yıl Mekke'de, kaç yıl Medine'de yaşamıştır?",
+      "type": "mcq",
+      "options": ["50 Mekke - 13 Medine", "52 Mekke - 10 Medine", "53 Mekke - 10 Medine", "55 Mekke - 8 Medine"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_010",
+      "text": "Kur'an-ı Kerim'de en fazla adı geçen peygamber kimdir?",
+      "type": "mcq",
+      "options": ["Hz. İbrahim", "Hz. Musa", "Hz. İsa", "Hz. Yusuf"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "islam_hard_011",
+      "text": "Namazda 'Sehiv secdesi' ne zaman yapılır?",
+      "type": "mcq",
+      "options": ["Namaz kasıtlı bozulduğunda", "Namaz sonunda selam verince", "Namazda yanılma veya unutma olduğunda", "Her namazın sonunda"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_012",
+      "text": "Aşağıdaki savaşların hangisi Hicret'ten önce gerçekleşmiştir?",
+      "type": "mcq",
+      "options": ["Bedir", "Uhud", "Ficar", "Hendek"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_013",
+      "text": "İslam'ın beş şartından biri olan haccın farz olması için aşağıdakilerden hangisi şart değildir?",
+      "type": "mcq",
+      "options": ["Müslüman olmak", "Akıllı ve ergin olmak", "Evli olmak", "Ekonomik ve fiziksel güce sahip olmak"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_014",
+      "text": "Kur'an-ı Kerim hangi halife döneminde çoğaltılarak eyaletlere gönderilmiştir?",
+      "type": "mcq",
+      "options": ["Hz. Ebu Bekir", "Hz. Ömer", "Hz. Osman", "Hz. Ali"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_015",
+      "text": "Teravih namazı kaç rek'attir?",
+      "type": "mcq",
+      "options": ["8", "10", "20", "23"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_016",
+      "text": "Aşağıdakilerden hangisi 'Kutub-u Sitte' (Altı Hadis Kitabı) içinde yer almaz?",
+      "type": "mcq",
+      "options": ["Sahih-i Buhari", "Sahih-i Müslim", "Muvatta", "Sünen-i Tirmizi"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_017",
+      "text": "Hz. Peygamber (s.a.v.) ilk vahyi aldığında kaç yaşındaydı?",
+      "type": "mcq",
+      "options": ["35", "38", "40", "43"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_018",
+      "text": "Kur'an-ı Kerim'de 'Sûretü'l-İhlâs' kaç ayetten oluşmaktadır?",
+      "type": "mcq",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "islam_hard_019",
+      "text": "İslam fıkhında 'İcmâ' ne anlama gelir?",
+      "type": "mcq",
+      "options": ["Kur'an'ın yorumu", "Müctehid alimlerin bir meselede görüş birliği", "Hz. Peygamber'in söz ve davranışları", "Kıyasa dayalı hüküm çıkarma"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "islam_hard_020",
+      "text": "Aşağıdaki isimlerden hangisi Hz. Peygamber'in (s.a.v.) torunlarından değildir?",
+      "type": "mcq",
+      "options": ["Hz. Hasan", "Hz. Hüseyin", "Hz. Zeynep bint Ali", "Hz. Abdullah b. Zübeyr"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "islam_hard_021",
+      "text": "Ramazan ayında oruç tutmaya gücü yetmeyenler fidye olarak ne vermelidir?",
+      "type": "mcq",
+      "options": ["Her gün bir koyun", "Her gün bir fakiri doyurmak", "Her gün 1 gram altın", "Sadece kaza tutmaları yeterlidir"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "islam_hard_022",
+      "text": "Kur'an'daki 'Ashab-ı Kehf' kıssasında kaç kişiden söz edilmektedir? (köpek dahil)",
+      "type": "mcq",
+      "options": ["7", "8", "9", "Kesin sayı belirtilmemiştir"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": "islam_hard_023",
+      "text": "İslam'da 'Mütevâtir hadis' ne demektir?",
+      "type": "mcq",
+      "options": ["Sadece bir sahabinin rivayet ettiği hadis", "Yalnızca sahih kabul edilen hadis", "Her tabakada yalan üzerine ittifak düşünülemeyen kalabalık toplulukların rivayet ettiği hadis", "Hz. Peygamber'in bizzat yazdığı hadis"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "islam_hard_024",
+      "text": "Hac ibadetinde 'Sa'y' ne demektir?",
+      "type": "mcq",
+      "options": ["Kabe'yi tavaf etmek", "Safa ile Merve arasında yürümek", "Arafat'ta vakfe yapmak", "Şeytan taşlamak"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "islam_hard_025",
+      "text": "Aşağıdaki dört büyük melekten hangisi 'Ölüm meleği' olarak bilinir?",
+      "type": "mcq",
+      "options": ["Cebrail", "Mikail", "İsrafil", "Azrail"],
+      "correctAnswerIndex": 3
+    }
+  ]
+}
